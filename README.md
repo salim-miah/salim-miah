@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salim 
 - 🌱 I’m currently majoring in Computer Science at Brac University
-- 📫 How to reach me salimmiah080802@gmail.com
+- 📫 You may reach me at salimmiah080802@gmail.com
 
 <!---
 salim-miah/salim-miah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
