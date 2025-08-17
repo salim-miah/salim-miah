@@ -4,6 +4,7 @@
 - 📫 You may reach me at salimmiah080802@gmail.com
 
 **About me**  
+
 Motivated Computer Science student with a passion for problem-solving and a proven ability to learn quickly.
 Aspiring software engineer with strong interest in cutting-edge technologies, particularly in Artificial
 Intelligence and software engineering. Actively expanding expertise in Natural Language Processing (NLP), image
